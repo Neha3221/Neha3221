@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Neha3221
+-     I’m Currently Preparing For Cloud Certifications.
+-     I am currently persuing MCA @Pooja Bhagavat Memorial Mahajana Education Centre, Mysore
 - 👀 I’m interested in Technology...
 - 🌱 I’m currently learning Cloud Computing...
 
